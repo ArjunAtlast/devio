@@ -1,7 +1,7 @@
 {
-  "name": "mosaic",
+  "name": "devio",
   "version": "1.0.0",
-  "description": "A static sitebuilder framework built from gulp, nunjucks, browserify, sass and UIKit",
+  "description": "A Mosaic template",
   "main": "app/dist/index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -20,10 +20,6 @@
   ],
   "author": "Tracing Paper",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/tracingpaper/jigsaw/issues"
-  },
-  "homepage": "https://github.com/tracingpaper/jigsaw#readme",
   "devDependencies": {
     "browserify": "^16.2.3",
     "gulp": "^4.0.0",
